@@ -4,7 +4,7 @@ import java.util.*;
         Integer i = 10;
 //        Scanner sc = new Scanner(System.in);
         String s = " Testin Java" ; // sc.nextLine();
-        System.out.println("Hello Java" + s);
+        System.out.println("Hello Javai fina done" + s);
 
     }
 }
